@@ -1,3 +1,4 @@
 # skp75.github.io
 
-#shrut
+#OneNine AI | Academy
+#Landing page
